@@ -74,11 +74,10 @@ p {
     animation: fadeEffect 1s; /* Fading effect takes 1 second */
 }
 
-.center {
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 
 /* Go from zero to full opacity */
